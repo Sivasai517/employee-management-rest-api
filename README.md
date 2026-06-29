@@ -1,30 +1,33 @@
-# Employee Management REST API
+# 🚀 Employee Management REST API
 
-## Overview
-
-Employee Management REST API is a backend application built using Flask and SQLAlchemy. It provides CRUD operations for managing employee records using a SQLite database.
+A backend REST API built using **Flask**, **SQLAlchemy**, and **SQLite** to perform CRUD (Create, Read, Update, Delete) operations on employee records.
 
 ---
 
-## Technologies Used
+## 📌 Features
+
+- ✅ Add Employee
+- ✅ View All Employees
+- ✅ View Employee by ID
+- ✅ Update Employee
+- ✅ Delete Employee
+- ✅ Input Validation
+- ✅ SQLite Database
+- ✅ RESTful APIs
+- ✅ Modular Project Structure
+
+---
+
+## 🛠️ Tech Stack
 
 - Python 3
 - Flask
 - Flask-SQLAlchemy
 - SQLite
+- SQLAlchemy ORM
 - REST API
-- JSON
-
----
-
-## Features
-
-- Add Employee
-- View All Employees
-- View Employee by ID
-- Update Employee
-- Delete Employee
-- Input Validation
+- Git
+- GitHub
 
 ---
 
